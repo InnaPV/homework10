@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Task_1 */
+  #redSquare {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: all 0.3s ease;
+  }
+
+  #changeButton1 {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+/* Task_2 */
+    #pinkSquare {
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+      }
+  
+      #changeButton2 {
+        margin-top: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      /* Task3 */
+    #square {
+        width: 150px;
+        height: 150px;
+        background-color: blue;
+      }
+  
+      #resizeButton {
+        margin-top: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+    
+      /* Task4 */
+      .blueParagraph {
+        color: blue;
+      }
+
+      /* Task5 */
+      .darkBlueParagraph {
+        color: rgb(10, 10, 124);
+      }
+  
+      .greenParagraph {
+        color: green;
+      }
+  
+  
